@@ -1,5 +1,5 @@
 {
-    "name": "Car Racing Game",
+    "name": "coche temperatura",
     "description": "",
     "dependencies": {
         "core": "*",
